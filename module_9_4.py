@@ -6,7 +6,6 @@
 # second = 'Рамена мало было'
 # Необходимо составить lambda-функцию для следующего выражения - list(map(?, first, second)).
 # Здесь ? - место написания lambda-функции.
-
 # Результатом должен быть список совпадения букв в той же позиции:
 # [False, True, True, False, False, False, False, False, True, False, False, False, False, False]
 # Где True - совпало, False - не совпало.
