@@ -29,6 +29,7 @@ print(list(second_result))
 # Пример выполнения кода:
 # print(list(first_result))
 # print(list(second_result))
+
 # Вывод в консоль:
 # [1, 2]
 # [False, False, True]
