@@ -39,7 +39,6 @@ print(third_result)
 # ('Variable', 'Computer')]
 # {'Elon': 4, 'Musk': 4, 'Programmer': 10, 'Monitors': 8, 'Variable': 8, 'Task': 4, 'Java': 4, 'Computer': 8}
 
-
 # старая версия
 # Дан список целых чисел, примените функции map и filter так,
 # чтобы в конечном списке оставить нечётные квадраты чисел
